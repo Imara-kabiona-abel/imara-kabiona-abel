@@ -1,52 +1,55 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+![Profil Photo](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/main/5X9A6646.jpg)
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
+# Imara Kabiona Abel
 
-The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+Imara Kabiona Abel est un expert en gestion des données et logistique, avec une solide expérience dans la collecte, l'analyse et la gestion des données au sein d'organisations humanitaires internationales. Fort de plus de cinq ans d’expérience, il maîtrise la mise en œuvre de systèmes de suivi des opérations, la gestion des stocks médicaux et logistiques, ainsi que l'analyse des données pour des rapports détaillés et fiables. Il a développé des compétences spécifiques dans la compilation et la saisie de données de qualité, le suivi des projets, et la création de rapports dans des environnements complexes.
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+En tant que collaborateur clé dans des projets humanitaires, il a occupé divers postes, notamment celui d'assistant magasinier et d'opérateur de saisie des données médicales, où il a joué un rôle central dans le suivi des inventaires et l'évaluation des besoins des bénéficiaires. Il est également compétent en outils informatiques de gestion tels que Unifield et Excel, et s'efforce de garantir la précision des informations tout en respectant les normes humanitaires.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+Aujourd'hui, il aspire à continuer à contribuer à des projets humanitaires d'envergure, en intégrant ses compétences en gestion de données et en logistique pour soutenir l'efficacité des interventions sur le terrain.
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+<h1 style="color: #1E90FF; font-size: 26px;">🎯 Intérêts</h1>
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+<ul style="color: #2F4F4F; font-size: 18px;">
+  <li>📊 Gestion des données</li>
+  <li>🚚 Logistique humanitaire</li>
+  <li>📋 Suivi et évaluation de projets</li>
+  <li>📈 Analyse des données</li>
+</ul>
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+---
 
-## We ask you, humbly, to support this open source movement
+<h1 style="color: #1E90FF; font-size: 26px;">🎓 Formations</h1>
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+<h2 style="color: #2F4F4F;">📚 Licence en Gestion des Projets de Développement (Bac+5)</h2>
+<p><strong>Institut Supérieur d'Informatique et de Gestion (ISIG)</strong><br>
+<em>Goma, RD Congo</em><br>
+Période : 2021 – 2024
+</p>
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+<hr>
 
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
+<h2 style="color: #2F4F4F;">📚 Graduat en Gestion des Ressources Humaines (Bac+3)</h2>
+<p><strong>Institut Supérieur des Métiers de Gestion et de Leadership (ISMGL)</strong><br>
+<em>Goma, RD Congo</em><br>
+Période : 2018 – 2021
+</p>
 
-<!--
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
--->
+<hr>
 
-## Demo image credits
+<h2 style="color: #2F4F4F;">📚 Diplôme d'État</h2>
+<p><strong>Institut Bweremana</strong><br>
+<em>Nord-Kivu, RD Congo</em><br>
+Période : 2012 – 2018
+</p>
 
-- [Unsplash](https://unsplash.com)
+## 🌐 Connectez-vous avec moi
 
-## Latest news
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abel.kab.5)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imara_kabiona_abel?igshid=ZDdkNTZiNTM=)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imara-kabiona-abel)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imaraabel1?t=1zpF5lqLJD_cFEqYKY8kkg&s=09)
+- [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://lkb306021747.wordpress.com/)
 
-<!--START_SECTION:news-->
-
-- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
-- [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
-- [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
-- [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
+---
